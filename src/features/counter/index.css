@@ -1,0 +1,23 @@
+p {
+  margin: 20px 0;
+}
+.button {
+  width: 60px;
+  font-size: 24px;
+}
+
+.btnAdd {
+  margin-right: 15px;
+  border-color: #0d6efd;
+  background-color: #0d6efd;
+}
+
+.btnSub {
+  border-color: #dc3545;
+  background-color: #dc3545;
+}
+
+.incrementAdd {
+  height: 37px;
+  font-size: 16px;
+}

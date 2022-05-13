@@ -1,0 +1,10 @@
+.container {
+  width: 600px;
+  padding: 20px;
+  margin: 70px auto;
+  background: #479cc2;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
